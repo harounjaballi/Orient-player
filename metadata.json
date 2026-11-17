@@ -1,0 +1,6 @@
+{
+  "name": "Orient Player",
+  "description": "Application IPTV professionnelle Android TV, Box et Smartphone avec lecteur Media3/ExoPlayer, gestion MAC virtuelle, Xtream Codes, M3U, Stalker Portal et Dashboard Administrateur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

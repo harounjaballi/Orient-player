@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Orient Player</string>
+    <string name="app_tagline">Système IPTV Professionnel • Android TV, Box &amp; Mobile</string>
+    <string name="nav_live_tv">LIVE TV</string>
+    <string name="nav_movies">MOVIES</string>
+    <string name="nav_series">SERIES</string>
+    <string name="nav_favorites">FAVORITES</string>
+    <string name="nav_catchup">CATCH UP</string>
+    <string name="nav_admin">ADMIN WEB</string>
+    <string name="nav_settings">SETTINGS</string>
+    <string name="mac_address_label">Adresse MAC Virtuelle</string>
+    <string name="activation_code_label">Code d\'Activation</string>
+    <string name="installation_id_label">ID d\'Installation</string>
+    <string name="search_placeholder">Rechercher chaînes, films, séries…</string>
+    <string name="epg_now">EN COURS</string>
+    <string name="epg_next">À SUIVRE</string>
+    <string name="btn_play">Regarder</string>
+    <string name="btn_resume">Reprendre</string>
+    <string name="btn_favorite">Favoris</string>
+    <string name="btn_fullscreen">Plein écran</string>
+</resources>
